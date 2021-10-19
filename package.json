@@ -1,6 +1,6 @@
 {
   "name": "smallhook",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple and tiny Webhook parser for GitHub",
   "main": "src/smallhook.js",
   "scripts": {
