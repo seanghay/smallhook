@@ -1,5 +1,7 @@
 # SmallHook
 
+[![Publish to npm Registry](https://github.com/seanghay/smallhook/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/seanghay/smallhook/actions/workflows/npm-publish.yml)
+
 A simple and tiny Webhook parser for GitHub. It uses mustache template engine to create an output text.
 
 ## Usage
