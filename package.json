@@ -1,0 +1,32 @@
+{
+  "name": "smallhook",
+  "version": "0.0.1",
+  "description": "A simple and tiny Webhook parser for GitHub",
+  "main": "src/smallhook.js",
+  "scripts": {
+    "test": "jest ./test/**.test.js",
+    "test:watch": "jest --watch ./test/**.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanghay/smallhook.git"
+  },
+  "keywords": [
+    "github",
+    "webhook"
+  ],
+  "author": "Seanghay Yath <yath.seanghay@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanghay/smallhook/issues"
+  },
+  "homepage": "https://github.com/seanghay/smallhook#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "github-webhook-fixtures": "^1.0.1",
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
