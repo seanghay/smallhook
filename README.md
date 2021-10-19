@@ -22,3 +22,10 @@ console.log(output);
 // OUTPUT:
 // seanghay pushed to seanghay/smallhook
 ```
+
+
+## Roadmap
+
+- [x] Basic template rendering.
+- [ ] Use markdown files to generate output.
+- [ ] Allow to use external template directory.
